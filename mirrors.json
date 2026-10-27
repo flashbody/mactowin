@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "windows11": {
+    "language": "English",
+    "isoFileName": "Win11_25H2_English_x64.iso",
+    "sha256": "bd4307df32bc8af33b39ccecb1174aeb345386630f89a2b86c7a4e36b55ea650",
+    "sizeBytes": 9047330816
+  }
+}
